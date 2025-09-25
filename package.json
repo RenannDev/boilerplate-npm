@@ -1,8 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Vítor Renan",
+	"description": "A boilerplate for learning how to manage a Node.js project with NPM.",
+	"keywords": [ "freecodecamp", "boilerplate", "node", "npm" ],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.21.2"
+	
 	},
+
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
